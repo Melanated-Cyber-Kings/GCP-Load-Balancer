@@ -5,7 +5,7 @@ Hello this is our submission for the first Group homework.
 
 **We choose Iowa and Sydney as are two locations**
 
-1. We set up our VPC with the correct subnets. We also added the firewall rules with the needed tags to give to our instance templates to allow port 80 to be open internally.
+1. We set up our VPC with the correct subnets. We also added the firewall rules with the needed tags to give to our instance templates to allow port 80 to be open internally. All instance templates have internal IPS and no external IPS shown in step 2.
 ---
 ![Screenshot 2025-04-13 at 9 12 48 PM](https://github.com/user-attachments/assets/ab8f5e66-1d78-4303-8c7e-2d836c7f9d7d)
 
